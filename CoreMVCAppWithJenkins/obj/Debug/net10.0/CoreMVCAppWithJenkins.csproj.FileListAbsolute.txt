@@ -96,3 +96,4 @@ D:\Azure Repos\CIIT DevOps\CoreMVCAppWithJenkins\CoreMVCAppWithJenkins\obj\Debug
 D:\Azure Repos\CIIT DevOps\CoreMVCAppWithJenkins\CoreMVCAppWithJenkins\obj\Debug\net10.0\CoreMVCAppWithJenkins.pdb
 D:\Azure Repos\CIIT DevOps\CoreMVCAppWithJenkins\CoreMVCAppWithJenkins\obj\Debug\net10.0\CoreMVCAppWithJenkins.genruntimeconfig.cache
 D:\Azure Repos\CIIT DevOps\CoreMVCAppWithJenkins\CoreMVCAppWithJenkins\obj\Debug\net10.0\ref\CoreMVCAppWithJenkins.dll
+D:\Azure Repos\CIIT DevOps\CoreMVCAppWithJenkins\CoreMVCAppWithJenkins\obj\Debug\net10.0\CoreMVCAppWithJenkins.sourcelink.json
