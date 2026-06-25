@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("CoreMVCAppWithJenkins")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+8e27cfbc181b553e962daff0018a66ff5c7f42af")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e4aa064bc0509cd085ac8c74d224e81893fea8bf")]
 [assembly: System.Reflection.AssemblyProductAttribute("CoreMVCAppWithJenkins")]
 [assembly: System.Reflection.AssemblyTitleAttribute("CoreMVCAppWithJenkins")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
