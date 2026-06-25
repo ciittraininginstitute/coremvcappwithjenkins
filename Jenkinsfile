@@ -32,12 +32,12 @@ pipeline {
                 }
             }
         }
-        // stage("Deployment") {
-        //     steps {
-        //         bat "del /q /s C:\\inetpub\\wwwroot\\coremvcapi\\*"
-        //         bat "xcopy /E /Y /I publish\\* C:\\inetpub\\wwwroot\\coremvcapi\\"
-        //     }
-        // }
+        stage("Deployment") {
+            steps {
+                bat "del /q /s C:\\inetpub\\wwwroot\\ciitcoreapp\\*"
+                bat "xcopy /E /Y /I publish\\* C:\\inetpub\\wwwroot\\ciitcoreapp\\"
+            }
+        }
     }
     post {
         success {
